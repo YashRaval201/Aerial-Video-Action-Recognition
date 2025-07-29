@@ -1,0 +1,1 @@
+/media/cvbl-ag/Data/Mtech/Yash_Raval_Thesis/Human_Action_Recognition/AERIAL_VIDEO_ACTION_RECOGNITION/data/Validation/*.txt
