@@ -115,10 +115,11 @@ python main.py --mode inference --video input.mp4 --show
 ## 🎯 Performance Targets
 
 The model is designed to achieve:
-- **Overall Accuracy**: ≥80%
-- **Overall Precision**: ≥90%
-- **Overall Recall**: ≥85%
-- **Per-class Recall**: ≥70% for all actions
+- **Validation Accuracy**: 79.86%
+- **Test Accuracy**: 78.29%
+- **Overall Precision**: 80.4%
+- **Overall Recall**: 78.1%
+- **Per-class Recall**: ≥68% for all actions
 
 ### Current Performance Improvements
 - **Focal Loss**: Handles class imbalance
@@ -202,10 +203,10 @@ PATIENCE = 15
 If you use this code in your research, please cite:
 ```bibtex
 @misc{yolo11-cnn-lstm-action-recognition,
-  title={Aerial Video Action Recogntion using YOLO11-CNN-LSTM},
-  author={Your Name},
-  year={2024},
-  howpublished={\url{https://github.com/your-repo}}
+  title={Aerial Video Action Recognition using YOLO11-CNN-LSTM},
+  author={Yash Raval},
+  year={2025},
+  howpublished={\url{[https://github.com/YashRaval201/Aerial-Video-Action-Recognition]}}
 }
 ```
 
